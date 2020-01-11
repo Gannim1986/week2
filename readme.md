@@ -1,4 +1,4 @@
-### full Responsive website
+# full Responsive website
 ## This website has about me section which is a start point of the website.
 ## It talks about my qualities and Skill that i have achived so far with this course.
 ## Contact me page has my contact info.
