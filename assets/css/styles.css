@@ -2,9 +2,10 @@
 
 
 body {
-    background-color: transparent;
+    background-color: whitesmoke;
     font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Lato', sans-serif;
+    /* background-image: url(/assets/images/backgroundimage5.png); */
     
 }
 
@@ -26,13 +27,6 @@ body {
     float: left;
 }
 
-/* .para {
-    padding-right: 200px;
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    
-} */
 
 .gallery {
     float: left;
@@ -60,6 +54,10 @@ h3 {
 }
 
 
+#Submit :hover {
+    background-color: blue;
+    color: white;
+}
 
 
 
@@ -68,9 +66,6 @@ h3 {
 footer{
     border-top: teal 8px solid;
     width: 100%;
-    
-    /* margin-top: 10px;
-    margin-left: 260px; */
     float: right;
     background-color: grey;
     padding: 15px;
